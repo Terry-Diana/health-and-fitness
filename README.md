@@ -1,4 +1,4 @@
-# Health and FitnessWebsite in React
+# Health and Fitness Website in React
 
 This project was bootstrapped with [Create React App]
 
